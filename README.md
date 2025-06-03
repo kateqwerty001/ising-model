@@ -5,7 +5,7 @@ This project implements the **Ising model** with:
 - **3 interaction types**:
   - Ferromagnetic  
   - Antiferromagnetic  
-  - Random
+  - Spin-Glass
 
 - **5 graph types**:
   - `LatticeGraph` (2D grid)  
